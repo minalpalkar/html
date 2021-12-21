@@ -1,0 +1,24 @@
+
+h1:before {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 2px;
+    background: #191970;
+    top: 12%;
+    right:0px;
+    left:450px;
+    position: absolute;
+  }
+  h1:after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 2px;
+    background: #191970;
+    right: 0;
+    top: 12%;
+    left:830px;
+    position: absolute;
+  }
+  
